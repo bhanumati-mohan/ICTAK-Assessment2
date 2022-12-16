@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-16T07:45:43 IST" name="Default suite" finished-at="2022-12-16T07:45:57 IST" duration-ms="14113">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T07:45:43 IST" name="Default test" finished-at="2022-12-16T07:45:57 IST" duration-ms="14113">
+      <class name="com.tech.test.EmployeeTest">
+        <test-method is-config="true" signature="onSetup()[pri:0, instance:com.tech.test.EmployeeTest@3bb9a3ff]" started-at="2022-12-16T07:45:33 IST" name="onSetup" finished-at="2022-12-16T07:45:43 IST" duration-ms="10490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onSetup -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.tech.test.EmployeeTest@3bb9a3ff]" started-at="2022-12-16T07:45:43 IST" name="verifyLogin" finished-at="2022-12-16T07:45:46 IST" duration-ms="3259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyEmployeeList()[pri:1, instance:com.tech.test.EmployeeTest@3bb9a3ff]" started-at="2022-12-16T07:45:46 IST" name="verifyEmployeeList" finished-at="2022-12-16T07:45:49 IST" duration-ms="2798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeList -->
+        <test-method signature="verifyAddEmployee()[pri:2, instance:com.tech.test.EmployeeTest@3bb9a3ff]" started-at="2022-12-16T07:45:49 IST" name="verifyAddEmployee" finished-at="2022-12-16T07:45:57 IST" duration-ms="7986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployee -->
+      </class> <!-- com.tech.test.EmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
